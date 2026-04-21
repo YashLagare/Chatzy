@@ -1,4 +1,7 @@
-# REALTIME CHAT APP - COMPLETE TECHNICAL DOCUMENTATION
+# CHATZY - REALTIME CHAT APP - COMPLETE TECHNICAL DOCUMENTATION
+
+<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/0bde7c93-1438-4250-9bc8-7c4f73786ab0" />
+
 
 ## 1. Project Overview
 **Realtime_Chat_App** is a full-stack real-time messaging application enabling users to create accounts, update profiles with avatar uploads, discover other users, and exchange text/image messages with real-time delivery via WebSocket.
