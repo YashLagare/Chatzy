@@ -24,9 +24,8 @@ Provide a secure, practical real-time messaging experience with:
 - Profile and message images stored in **Cloudinary**
 - Responsive UI with **Tailwind CSS + DaisyUI themes**
 
-Project Screenshot Placeholder:
+<img width="1918" height="910" alt="image" src="https://github.com/user-attachments/assets/355e7cc5-d59b-4904-8d5e-423c099652d5" />
 
-[INSERT_PROJECT_COVER_SCREENSHOT_HERE]
 
 ---
 
