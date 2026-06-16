@@ -94,10 +94,6 @@ Not implemented (explicitly not present):
 - Refresh tokens / token rotation (JWT expiry handling exists but refresh is not implemented)
 - Rate limiting / advanced input sanitization libraries (not present in code)
 
-Project Screenshot Placeholder:
-
-[INSERT_PROJECT_OVERVIEW_SCREENSHOT_HERE]
-
 ---
 
 # 3. TECHNOLOGY STACK
