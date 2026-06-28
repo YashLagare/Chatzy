@@ -141,8 +141,6 @@ No other auth providers (OAuth/Firebase/etc.) exist in the codebase.
 
 # 4. FEATURES LIST
 
-> Features detected strictly from code.
-
 | Feature Name | Purpose | User Benefit | Related Components |
 |---|---|---|---|
 | Signup (POST `/api/auth/signup`) | Create user with hashed password | Register and access Chatzy | `backend/src/controllers/auth.controller.js`, `backend/src/routes/auth.route.js` |
